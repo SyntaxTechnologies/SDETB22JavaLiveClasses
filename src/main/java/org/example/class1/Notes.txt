@@ -1,0 +1,22 @@
+Why we are here?
+    We are here to be testers/QA/Automate Testing/SDET
+What Automate Testing/SDET Do?
+    They automate the testing instead of doing it manually they
+    write code/instructions for computers and computer perform
+    the actual testing.
+What is java why are we learning java for SDET?
+    It is a programming
+
+
+
+
+
+                MyAgeIs=10; //PascalCase
+                myageis=10;
+
+                myGrade=A;  //CamelCase
+
+                int 500
+
+                12.25555
+
