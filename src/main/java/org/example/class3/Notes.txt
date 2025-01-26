@@ -1,0 +1,22 @@
+Q1:
+    What are objects why do we need them?
+Answer:
+    Objects are a way to use the code from a class. The code inside the classes
+    is written in the form of methods. To use these methods we have to create the
+    object of a class.
+ Q2:
+    What are methods?
+Answer:
+    Methods/functions/block of code contain the instructions to do something. They
+    are smaller units of code inside a class we do not write all the code inside
+    a class we divide it in smaller units called methods.
+
+Logical Operators:
+    Logical Operators help us combine multiple conditions into one.
+    There are three types of logical operators in java.
+    NOT =>!
+    OR => ||
+    AND => &&
+NOT !:
+    In certain situations NOT operator can simplify the logic.
+OR ||:
